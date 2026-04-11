@@ -1,6 +1,6 @@
 # ── Skip if EML Praat Tools plugin is installed (it includes this) ────────
 
-if fileReadable (preferencesDirectory$ + "/plugin_EMLTools/setup.praat")
+if fileReadable (preferencesDirectory$ + "/plugin_EML_Praat_Tools/setup.praat")
     exitScript ()
 endif
 
