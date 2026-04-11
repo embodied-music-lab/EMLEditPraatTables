@@ -1,4 +1,4 @@
-# EML Edit Table — A Praat Plugin
+# EML Edit Tables — A Praat Plugin
 
 **Version 2.0** · 11 April 2026
 **Author:** Ian Howell, Embodied Music Lab · [embodiedmusiclab.com](https://www.embodiedmusiclab.com)
