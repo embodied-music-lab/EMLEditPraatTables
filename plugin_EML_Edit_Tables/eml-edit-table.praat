@@ -13,7 +13,7 @@
 # Framework: EML PraatGen by Ian Howell
 #            Embodied Music Lab — www.embodiedmusiclab.com
 # Code generation: Claude (Anthropic)
-# Script author: [Your name here] — created and verified by this individual
+# Script author: Ian Howell — created and verified by this individual
 #
 # RESEARCH USE DISCLOSURE
 # If this script is used in research or publication, disclose AI use
