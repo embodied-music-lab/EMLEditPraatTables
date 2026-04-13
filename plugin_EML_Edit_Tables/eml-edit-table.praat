@@ -22,7 +22,7 @@
 #   "Acoustic analysis scripts were developed using the EML Praat
 #    Assistant (Howell, Embodied Music Lab) with code generation
 #    by Claude 4.6 Extended Thinking (Anthropic). All scripts were
-#    reviewed, tested, and validated by [your name]."
+#    reviewed, tested, and validated by Ian Howell."
 #
 # The script author assumes responsibility for the correctness and
 # appropriate application of this code.
